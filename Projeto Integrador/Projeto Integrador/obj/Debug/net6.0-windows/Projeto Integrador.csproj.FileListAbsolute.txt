@@ -1,0 +1,29 @@
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\bin\Debug\net6.0-windows\Projeto Integrador.exe
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\bin\Debug\net6.0-windows\Projeto Integrador.deps.json
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\bin\Debug\net6.0-windows\Projeto Integrador.runtimeconfig.json
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\bin\Debug\net6.0-windows\Projeto Integrador.dll
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\bin\Debug\net6.0-windows\Projeto Integrador.pdb
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\obj\Debug\net6.0-windows\Projeto Integrador.csproj.AssemblyReference.cache
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\obj\Debug\net6.0-windows\Projeto_Integrador.frm_funcionario.resources
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\obj\Debug\net6.0-windows\Projeto Integrador.csproj.GenerateResource.cache
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\obj\Debug\net6.0-windows\Projeto Integrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\obj\Debug\net6.0-windows\Projeto Integrador.AssemblyInfoInputs.cache
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\obj\Debug\net6.0-windows\Projeto Integrador.AssemblyInfo.cs
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\obj\Debug\net6.0-windows\Projeto Integrador.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\obj\Debug\net6.0-windows\Projeto Integrador.dll
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\obj\Debug\net6.0-windows\refint\Projeto Integrador.dll
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\obj\Debug\net6.0-windows\Projeto Integrador.pdb
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\obj\Debug\net6.0-windows\Projeto Integrador.genruntimeconfig.cache
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\obj\Debug\net6.0-windows\ref\Projeto Integrador.dll
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\obj\Debug\net6.0-windows\Projeto_Integrador.MDITelaIncial.resources
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\obj\Debug\net6.0-windows\Projeto_Integrador.Properties.Resources.resources
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\obj\Debug\net6.0-windows\Projeto_Integrador.frm_categoria.resources
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\obj\Debug\net6.0-windows\Projeto_Integrador.frm_produto.resources
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\obj\Debug\net6.0-windows\Projeto Integrador.csproj.CopyComplete
+C:\Users\gustavo.tbsilva\source\repos\Projeto Integrador\Projeto Integrador\obj\Debug\net6.0-windows\Projeto_Integrador.MDI_telaEscolhaProduto.resources
