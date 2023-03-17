@@ -4,22 +4,23 @@ Projeto do curso de T.I do Senac com o objetivo de criar um sistema ERP
 
 ## Em progresso
 
-[ ] - Desing das telas
+- [ ]  Desing das telas
 
-[ ] - Data Grid(na maioria) 
+- [ ] - Data Grid(na maioria) 
 
-[ ] - Banco de dados(Correçoes)
+- [ ] - Banco de dados(Correçoes)
 
-[ ] - Programação das telas
+- [ ] - Programação das telas
 
-[ ] - Grafico dinamico
+- [ ] - Grafico dinamico
 
 ## Finalizado
-[ ] - Banco de dados(base)
 
-[ ] - 
+- [ ] - Banco de dados(base)
 
-[ ] - 
+- [ ] - 
+
+- [ ] - 
 
 ## Créditos
 
