@@ -20,7 +20,7 @@ Projeto do curso de T.I do Senac com o objetivo de criar um sistema ERP
   
   - [ ] venda(Tabela)
 
-- [ ] - Banco de dados(Correçoes)
+- [X] - Banco de dados(Correçoes)
 
 - [ ] - Programação das telas
 
@@ -36,7 +36,7 @@ Projeto do curso de T.I do Senac com o objetivo de criar um sistema ERP
 
 - [X] - Banco de dados(base)
 
-- [X] - Desing das telas
+- [X] - Design das telas
 
 - [ ] - 
 
