@@ -25,6 +25,12 @@ Projeto do curso de T.I do Senac com o objetivo de criar um sistema ERP
 - [ ] - Programação das telas
 
 - [ ] - Grafico dinamico
+  
+  - [ ] vendas
+  
+  - [ ] meses
+   
+  - [ ] mais vendidos 
 
 ## Finalizado
 
