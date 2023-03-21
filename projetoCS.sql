@@ -13,7 +13,7 @@ obs_metas varchar(255) null,
 )
 
 insert into meta (nome_meta,descricao_meta,data_meta_fim,status_meta,obs_metas) values 
-('Meta Teste', 'DescriÃ§Ã£o teste de meta','04/08/2024 20:00', 'Ativo', 'ObservaÃ§Ã£o teste de meta' )
+('Meta Teste', 'Descrição teste de meta','04/08/2024 20:00', 'Ativo', 'Observação teste de meta' )
 
 select * from meta
 
@@ -31,7 +31,7 @@ obs_funcionario varchar(255) null,
 )
 
 insert into funcionario (nome_funcionario,cpf_funcionario,data_nascimento,genero_funcionario,telefone_funcionario,email_funcionario,status_funcionario,obs_funcionario)
-values ('Funcionario teste', '411.023.192-31', '10/02/2000 21:26:05', 'Feminino', '11 - 323342506','funcionarioteste@outlook.com','Teste','ObservaÃ§Ã£o teste')
+values ('Funcionario teste', '411.023.192-31', '10/02/2000 21:26:05', 'Feminino', '11 - 323342506','funcionarioteste@outlook.com','Teste','Observação teste')
 
 select * from funcionario
 
@@ -49,7 +49,7 @@ constraint Fk_id_funcionario_relatorio foreign key(id_funcionario) references fu
 )
 
 insert into relatorio (id_funcionario, nome_relatorio, descricao_relatorio, status_relatorio, obs_relatorio) 
-values ('1','RelatÃ³rio teste', 'Foi feito aqui um teste de relatÃ³rio no servidor SQL', 'Teste', 'ObservaÃ§Ã£o teste')
+values ('1','Relatório teste', 'Foi feito aqui um teste de relatório no servidor SQL', 'Teste', 'Observação teste')
 
 create table estoque
 (
@@ -64,7 +64,7 @@ create table estoque
 )
 
 insert into estoque(nome_estoque,categoria_estoque,descricao_estoque,data_vencimento_estoque,status_estoque,obs_estoque)
-values ('Estoque teste', 'Teste', 'DescriÃ§Ã£o teste', '09/06/2023 10:00:25', 'Teste', 'ObservaÃ§Ã£o teste')
+values ('Estoque teste', 'Teste', 'Descrição teste', '09/06/2023 10:00:25', 'Teste', 'Observação teste')
 
 create table fornecedor
 (
@@ -79,7 +79,7 @@ status_fornecedor varchar(30) not null,
 obs_fornecedor varchar(255) null
 )
 insert into fornecedor (nome_fornecedor,tipoProduto_fornecedor,cnpj_fornecedor,telefone_fornecedor,telefone2_fornecedor,email_fornecedor,status_fornecedor,obs_fornecedor)
-values ('Fornecedor teste', 'Tipo teste', '85.032.978/0001-98', '11 187543126', '11 121543512', 'FornecedorTeste@outlook.com', 'Teste','ObservaÃ§Ã£o teste')
+values ('Fornecedor teste', 'Tipo teste', '85.032.978/0001-98', '11 187543126', '11 121543512', 'FornecedorTeste@outlook.com', 'Teste','Observação teste')
 
 select * from fornecedor
 
@@ -93,7 +93,7 @@ obs_categoria varchar(255) null,
 )
 
 insert into categoria (nome_categoria, descricao_categoria, status_categoria, obs_categoria) 
-values ('Teste categoria', 'DescriÃ§Ã£o teste', 'Teste', 'ObservaÃ§Ã£o teste')
+values ('Teste categoria', 'Descrição teste', 'Teste', 'Observação teste')
 
 select * from categoria
 
@@ -124,7 +124,7 @@ select * from estoque
 
 insert into produto (id_fornecedor, id_categoria, id_estoque, nome_produto, descricao_produto, quantidade_produto, peso_produto, unidadeMedida_produto,
 valorcusto_produto, valorvenda_produto, status_produto, obs_produto)
-values('1','1','1','Teste produto','DescriÃ§Ã£o teste para o produto', '20', '10', 'kg','20.000', '50.000', 'Teste', 'ObservaÃ§Ã£o teste')
+values('1','1','1','Teste produto','Descrição teste para o produto', '20', '10', 'kg','20.000', '50.000', 'Teste', 'Observação teste')
 
 select * from produto
 
@@ -143,6 +143,6 @@ obs_venda varchar (255) not null,
 )
 
 insert into venda (id_produto,cpfCliente_Venda,cnpjCliente_Venda,valorTotal_venda,quantidadeProdutos_venda,status_venda,obs_venda)
-values ('1','','','100','30','Teste','ObservaÃ§Ã£o teste')
+values ('1','','','100','30','Teste','Observação teste')
 
 select * from venda

@@ -46,7 +46,9 @@ namespace Projeto_Integrador
 
         private void pic2_estatisticas_Click(object sender, EventArgs e)
         {
-
+            frmVenda venda = new frmVenda();
+            venda.Show();
+            this.Hide();
         }
 
         private void lbl_funcionario_Click(object sender, EventArgs e)
@@ -69,7 +71,9 @@ namespace Projeto_Integrador
 
         private void pic3_venda_Click(object sender, EventArgs e)
         {
-
+            frmEstoque estoque = new frmEstoque();
+            estoque.Show();
+            this.Hide();
         }
 
         private void pic_produto_Click(object sender, EventArgs e)

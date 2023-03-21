@@ -61,7 +61,7 @@
   <data name="pic2_estatisticas.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        vQAADr0BR/uQrQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAACdeSURBVHhe7d15
+        vAAADrwBlbxySQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAACdeSURBVHhe7d15
         mKV5Wd/hFkUWAWUHA5EdZYeJioAsghAhggYJYuISEIzIIkIAIzgIAhqFJCgIKiEJ4ZILgRAjYiIwasK+
         rwI6bDIg+yKLbJrnAYrpmfk9PVXVzzl13vd339f1+acZuqtPddX51jnvcgwAAAAAAAAAAAAAAAAAAAAA
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -236,7 +236,7 @@
   <data name="pic3_venda.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        vQAADr0BR/uQrQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAB/YSURBVHhe7d1d
+        vAAADrwBlbxySQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAB/YSURBVHhe7d1d
         qG7beRfwWLQfJKBJm16V4kViaxLO0VYQBWmFqhSJomjT9ELqhb2wHwhWr8RKBA3VWkoVrAbRBqkf5xyR
         4I0BvRHTWlsK1lyIgpVUEaE1Gk1DT6LP7DmzZ593jLX2WmvMOcd4xvj94A+Hs/dea8253mc8//Xutdf7
         FgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMjobZFviXxf5COvZ/vv7f+9
@@ -379,7 +379,7 @@
   <data name="pic_3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wAAADsABataJCQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAEH4SURBVHhe7d15
+        vwAADr8BOAVTJAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAEH4SURBVHhe7d15
         tLXpWdd5plQIQ4CEhIQEERJAUhWlXaGBVrBBBBnC0LRgoKURm6FNALVBhlYMg9jaSaWKKpLGbrWbGMEW
         XCIgQwbEpcRghEClmAMLQYVAElIVxiR0XxehpAjf9z37t3/Pfu/n2vv3Wev7B6w617nv/dw757zn7PPs
         N4mIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiI+3tw9Q6/04P6/xEREREz3VS9Z/UR1edUt1ffWD2v

@@ -412,6 +412,7 @@
             this.bto_alterar.TabIndex = 8;
             this.bto_alterar.Text = "Alterar";
             this.bto_alterar.UseVisualStyleBackColor = true;
+            this.bto_alterar.Click += new System.EventHandler(this.bto_alterar_Click);
             // 
             // bto_cadastrar
             // 

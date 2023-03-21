@@ -73,11 +73,16 @@ namespace Projeto_Integrador
         private void pic_3_Click(object sender, EventArgs e)
         {
             //abrir tela de fornecedores
+            frmcompraFornecedores fornecedores = new frmcompraFornecedores();
+            fornecedores.Show();
+            this.Hide();
         }
 
         private void pic2_estatisticas_Click(object sender, EventArgs e)
         {
-
+            frmRelatorio relatorio = new frmRelatorio();
+            relatorio.Show();
+            this.Hide();
         }
 
         private void lbl_funcionario_Click(object sender, EventArgs e)

@@ -277,5 +277,25 @@ namespace Projeto_Integrador
         {
             datagride();
         }
+
+        private void label9_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Status_estoque_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label10_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void obs_estoque_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

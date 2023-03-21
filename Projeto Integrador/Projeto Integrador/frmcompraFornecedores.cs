@@ -26,5 +26,17 @@ namespace Projeto_Integrador
         {
 
         }
+
+        private void frmcompraFornecedores_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MDITelaIncial mdi = new MDITelaIncial();
+            mdi.Show();
+            this.Hide();
+        }
     }
 }

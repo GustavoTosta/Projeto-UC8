@@ -31,5 +31,28 @@ namespace Projeto_Integrador
         {
 
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MDITelaIncial mdi = new MDITelaIncial();
+            mdi.Show();
+            this.Hide();
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox4_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dataGridView2_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            //lista de itens, quantidade, valor por item, valor total
+        }
     }
 }

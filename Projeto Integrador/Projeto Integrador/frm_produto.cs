@@ -167,5 +167,10 @@ namespace Projeto_Integrador
         {
             Application.Exit();
         }
+
+        private void bto_alterar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -94,11 +94,11 @@
             // lbl_Estatisticas
             // 
             this.lbl_Estatisticas.AutoSize = true;
-            this.lbl_Estatisticas.Location = new System.Drawing.Point(254, 279);
+            this.lbl_Estatisticas.Location = new System.Drawing.Point(225, 279);
             this.lbl_Estatisticas.Name = "lbl_Estatisticas";
-            this.lbl_Estatisticas.Size = new System.Drawing.Size(64, 15);
+            this.lbl_Estatisticas.Size = new System.Drawing.Size(116, 15);
             this.lbl_Estatisticas.TabIndex = 12;
-            this.lbl_Estatisticas.Text = "Estatísticas";
+            this.lbl_Estatisticas.Text = "Estatísticas/Relatório";
             this.lbl_Estatisticas.Click += new System.EventHandler(this.lbl_Estatisticas_Click);
             // 
             // lbl_produtos
