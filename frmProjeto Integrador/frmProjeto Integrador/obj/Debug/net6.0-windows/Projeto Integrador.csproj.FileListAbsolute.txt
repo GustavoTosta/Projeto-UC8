@@ -1,0 +1,25 @@
+C:\Users\carlos.ssantos3\source\repos\N8-Mini Projeto\BD\frmProjeto Integrador\frmProjeto Integrador\bin\Debug\net6.0-windows\Projeto Integrador.exe
+C:\Users\carlos.ssantos3\source\repos\N8-Mini Projeto\BD\frmProjeto Integrador\frmProjeto Integrador\bin\Debug\net6.0-windows\Projeto Integrador.deps.json
+C:\Users\carlos.ssantos3\source\repos\N8-Mini Projeto\BD\frmProjeto Integrador\frmProjeto Integrador\bin\Debug\net6.0-windows\Projeto Integrador.runtimeconfig.json
+C:\Users\carlos.ssantos3\source\repos\N8-Mini Projeto\BD\frmProjeto Integrador\frmProjeto Integrador\bin\Debug\net6.0-windows\Projeto Integrador.dll
+C:\Users\carlos.ssantos3\source\repos\N8-Mini Projeto\BD\frmProjeto Integrador\frmProjeto Integrador\bin\Debug\net6.0-windows\Projeto Integrador.pdb
+C:\Users\carlos.ssantos3\source\repos\N8-Mini Projeto\BD\frmProjeto Integrador\frmProjeto Integrador\obj\Debug\net6.0-windows\Projeto Integrador.csproj.AssemblyReference.cache
+C:\Users\carlos.ssantos3\source\repos\N8-Mini Projeto\BD\frmProjeto Integrador\frmProjeto Integrador\obj\Debug\net6.0-windows\Projeto Integrador.csproj.GenerateResource.cache
+C:\Users\carlos.ssantos3\source\repos\N8-Mini Projeto\BD\frmProjeto Integrador\frmProjeto Integrador\obj\Debug\net6.0-windows\Projeto Integrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.ssantos3\source\repos\N8-Mini Projeto\BD\frmProjeto Integrador\frmProjeto Integrador\obj\Debug\net6.0-windows\Projeto Integrador.AssemblyInfoInputs.cache
+C:\Users\carlos.ssantos3\source\repos\N8-Mini Projeto\BD\frmProjeto Integrador\frmProjeto Integrador\obj\Debug\net6.0-windows\Projeto Integrador.AssemblyInfo.cs
+C:\Users\carlos.ssantos3\source\repos\N8-Mini Projeto\BD\frmProjeto Integrador\frmProjeto Integrador\obj\Debug\net6.0-windows\Projeto Integrador.csproj.CoreCompileInputs.cache
+C:\Users\carlos.ssantos3\source\repos\N8-Mini Projeto\BD\frmProjeto Integrador\frmProjeto Integrador\obj\Debug\net6.0-windows\Projeto Integrador.dll
+C:\Users\carlos.ssantos3\source\repos\N8-Mini Projeto\BD\frmProjeto Integrador\frmProjeto Integrador\obj\Debug\net6.0-windows\refint\Projeto Integrador.dll
+C:\Users\carlos.ssantos3\source\repos\N8-Mini Projeto\BD\frmProjeto Integrador\frmProjeto Integrador\obj\Debug\net6.0-windows\Projeto Integrador.pdb
+C:\Users\carlos.ssantos3\source\repos\N8-Mini Projeto\BD\frmProjeto Integrador\frmProjeto Integrador\obj\Debug\net6.0-windows\Projeto Integrador.genruntimeconfig.cache
+C:\Users\carlos.ssantos3\source\repos\N8-Mini Projeto\BD\frmProjeto Integrador\frmProjeto Integrador\obj\Debug\net6.0-windows\ref\Projeto Integrador.dll
+C:\Users\carlos.ssantos3\source\repos\N8-Mini Projeto\BD\frmProjeto Integrador\frmProjeto Integrador\obj\Debug\net6.0-windows\frmProjeto_Integrador.Frm_Meta.resources
+C:\Users\carlos.ssantos3\source\repos\N8-Mini Projeto\BD\frmProjeto Integrador\frmProjeto Integrador\obj\Debug\net6.0-windows\frmProjeto_Integrador.frm_login.resources
+C:\Users\carlos.ssantos3\source\repos\N8-Mini Projeto\BD\frmProjeto Integrador\frmProjeto Integrador\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\carlos.ssantos3\source\repos\N8-Mini Projeto\BD\frmProjeto Integrador\frmProjeto Integrador\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\carlos.ssantos3\source\repos\N8-Mini Projeto\BD\frmProjeto Integrador\frmProjeto Integrador\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\carlos.ssantos3\source\repos\N8-Mini Projeto\BD\frmProjeto Integrador\frmProjeto Integrador\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\carlos.ssantos3\source\repos\N8-Mini Projeto\BD\frmProjeto Integrador\frmProjeto Integrador\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\carlos.ssantos3\source\repos\N8-Mini Projeto\BD\frmProjeto Integrador\frmProjeto Integrador\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\carlos.ssantos3\source\repos\N8-Mini Projeto\BD\frmProjeto Integrador\frmProjeto Integrador\obj\Debug\net6.0-windows\Projeto Integrador.csproj.CopyComplete
